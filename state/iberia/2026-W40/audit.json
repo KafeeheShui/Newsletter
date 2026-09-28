@@ -1,0 +1,29 @@
+{
+  "checked": 9,
+  "missed": [
+    {
+      "title": "Sunna: Sauna Hire for Events & Retreats in Portugal",
+      "url": "https://sunna.pt",
+      "source": "Sunna",
+      "snippet": "Proveedor de saunas móviles y servicios de bienestar para eventos y festivales en Portugal, con historial de activaciones en zonas costeras (Figueira da Foz).",
+      "date": null,
+      "country": "PT",
+      "market": "Spanje",
+      "_filter": "Eventverhuur/B2B, geen publieke drop-in faciliteit.",
+      "_audit": "Sunna is een relevante aanbieder van verplaatsbare outdoor sauna's en activaties aan de kust van Portugal (o.a. Figueira da Foz), wat een directe concurrentie- of samenwerkingskans is binnen de primaire regio (ES/PT).",
+      "block": "Afgewezen item.\nTitel: Sunna: Sauna Hire for Events & Retreats in Portugal\nSnippet: Proveedor de saunas móviles y servicios de bienestar para eventos y festivales en Portugal, con historial de activaciones en zonas costeras (Figueira da Foz).\nBron: https://sunna.pt\nPaginatekst: (niet opgehaald)"
+    },
+    {
+      "title": "Sunna Mobile Saunas",
+      "url": "https://www.therma.pt/venue/sunna-mobile-saunas",
+      "source": "Therma",
+      "snippet": "Serviço de sauna móvel a lenha disponível para eventos, retiros e locais escolhidos pelo cliente em Portugal, permitindo experiências de sauna ao ar livre ou na praia.",
+      "date": "2026-01-01",
+      "country": "PT",
+      "market": "Portugal",
+      "_filter": "Dubbel van nummer 5 (eventverhuur).",
+      "_audit": "Relevante mobiele outdoor/strandsauna-aanbieder in Portugal (directe marktontwikkeling/concurrent binnen de focusregio ES/PT).",
+      "block": "Portugal"
+    }
+  ]
+}

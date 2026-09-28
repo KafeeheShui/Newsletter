@@ -167,6 +167,126 @@
       ],
       "firstSeen": "2026-W38",
       "lastSeen": "2026-W38"
+    },
+    {
+      "key": "base-de-loisirs-du-pays-de-montbeliard-ouverture-de-la-baignade-brognard-fr",
+      "title": "Base de loisirs du Pays de Montbéliard : ouverture de la baignade",
+      "place": "Brognard",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.paysdemontbeliard.fr/actualite/ouverture-ete-2026-base-de-loisirs-brognard"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "la-baignade-dans-le-canal-saint-martin-ouvre-ce-dimanche-6-septembre-parijs-fr",
+      "title": "La baignade dans le canal Saint-Martin ouvre ce dimanche 6 septembre",
+      "place": "Parijs",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.paris.fr/pages/la-baignade-dans-le-canal-saint-martin-ouvre-ce-dimanche-6-septembre-24151"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "tender-strandconcessie-rayol-canadel-sur-mer-2027-2032-rayol-canadel-sur-mer-fr",
+      "title": "Tender strandconcessie Rayol-Canadel-sur-Mer (2027-2032)",
+      "place": "Rayol-Canadel-sur-Mer",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.marches-demat.com/publisher_portail/public/annonce/afficherAnnonces.jsp?filtreType=marche.ALL_REF&filtre=2026.008TER"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "baignade-et-loisirs-une-nouvelle-page-s-ouvre-pour-le-lac-d-hommes-en-2026-homme",
+      "title": "Baignade et loisirs : Une nouvelle page s'ouvre pour le Lac d'Hommes en 2026",
+      "place": "Hommes",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.tourainevaldeloire.com/actu/lac-hommes-2026/"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "reouverture-anticipee-de-la-baignade-de-castelfranc-castelfranc-fr",
+      "title": "Réouverture anticipée de la baignade de Castelfranc",
+      "place": "Castelfranc",
+      "country": "FR",
+      "status": "geopend",
+      "urls": [
+        "https://www.tourisme-lot.fr/inf-eau-loisirs-2026"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "reouverture-et-nouveaux-sites-de-baignade-en-ile-de-france-pour-2026-neuilly-sur",
+      "title": "Réouverture et nouveaux sites de baignade en Île-de-France pour 2026",
+      "place": "Neuilly-sur-Marne",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.drieat.ile-de-france.developpement-durable.gouv.fr/reouverture-des-sites-de-baignade-en-ile-de-france-8-sites-ouverts-pour-la-saison-2026"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "enquete-publique-pour-la-concession-de-la-plage-naturelle-du-veillat-a-saint-rap",
+      "title": "Enquête publique pour la concession de la plage naturelle du Veillat à Saint-Raphaël",
+      "place": "Saint-Raphaël",
+      "country": "FR",
+      "status": "onderzoek",
+      "urls": [
+        "https://www.saint-raphael.fr/concession-de-plage-du-veillat-enquete-publique"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "inauguration-du-port-de-seine-parisii-a-cormeilles-en-parisis-cormeilles-en-pari",
+      "title": "Inauguration du port de Seine Parisii à Cormeilles-en-Parisis",
+      "place": "Cormeilles-en-Parisis",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.bouygues-immobilier.com/actualites/inauguration-du-port-de-seine-parisii-a-cormeilles-en-parisis"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "ouverture-de-sites-de-baignade-dans-le-val-de-marne-pendant-l-ete-2026-val-de-ma",
+      "title": "Ouverture de sites de baignade dans le Val-de-Marne pendant l'été 2026",
+      "place": "Val-de-Marne",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.vnf.fr/vnf/actualites/ouverture-de-sites-de-baignade-dans-le-val-de-marne-pendant-lete-2026-quelles-conditions-de-navigation/"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "appel-a-candidatures-dsp-pour-l-exploitation-des-concessions-des-plages-a-soorts",
+      "title": "Appel à candidatures : DSP pour l'exploitation des concessions des plages à Soorts-Hossegor",
+      "place": "Soorts-Hossegor",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.hossegor.fr/fr/marches-publics/appel-a-candidatures-dsp-pour-lexploitation-des-concessions-des-plages/"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
     }
   ]
 }

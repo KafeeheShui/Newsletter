@@ -1,0 +1,158 @@
+{
+  "month": "2026-09",
+  "total_usd": 0.09885927,
+  "calls": [
+    {
+      "label": "collect:Duitsland#1",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 384,
+      "output_tokens": 668,
+      "web_searches": 0,
+      "usd": 0.0006
+    },
+    {
+      "label": "collect:Duitsland#2",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 384,
+      "output_tokens": 1039,
+      "web_searches": 0,
+      "usd": 0.0008
+    },
+    {
+      "label": "collect:Duitsland#3",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 384,
+      "output_tokens": 704,
+      "web_searches": 0,
+      "usd": 0.0006
+    },
+    {
+      "label": "filter",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 1308,
+      "output_tokens": 435,
+      "web_searches": 0,
+      "usd": 0.0005
+    },
+    {
+      "label": "dedup",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 1019,
+      "output_tokens": 398,
+      "web_searches": 0,
+      "usd": 0.0004
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 523,
+      "output_tokens": 173,
+      "web_searches": 0,
+      "usd": 0.0021
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 506,
+      "output_tokens": 147,
+      "web_searches": 0,
+      "usd": 0.0019
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 1819,
+      "output_tokens": 248,
+      "web_searches": 0,
+      "usd": 0.0046
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 502,
+      "output_tokens": 163,
+      "web_searches": 0,
+      "usd": 0.002
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 572,
+      "output_tokens": 199,
+      "web_searches": 0,
+      "usd": 0.0024
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 520,
+      "output_tokens": 147,
+      "web_searches": 0,
+      "usd": 0.0019
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 2058,
+      "output_tokens": 252,
+      "web_searches": 0,
+      "usd": 0.005
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 5153,
+      "output_tokens": 203,
+      "web_searches": 0,
+      "usd": 0.0093
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 2182,
+      "output_tokens": 249,
+      "web_searches": 0,
+      "usd": 0.0051
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 265,
+      "output_tokens": 57,
+      "web_searches": 0,
+      "usd": 0.0008
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 1622,
+      "output_tokens": 72,
+      "web_searches": 0,
+      "usd": 0.003
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 1112,
+      "output_tokens": 86,
+      "web_searches": 0,
+      "usd": 0.0023
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 272,
+      "output_tokens": 80,
+      "web_searches": 0,
+      "usd": 0.001
+    },
+    {
+      "label": "editorial",
+      "model": "claude-opus-4-8",
+      "input_tokens": 3434,
+      "output_tokens": 1503,
+      "web_searches": 0,
+      "usd": 0.0547
+    }
+  ]
+}

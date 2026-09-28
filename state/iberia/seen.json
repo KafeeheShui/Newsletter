@@ -23,6 +23,54 @@
       ],
       "firstSeen": "2026-W38",
       "lastSeen": "2026-W38"
+    },
+    {
+      "key": "social-ice-sessions-en-valencia-sauna-y-bano-frio-valencia-es",
+      "title": "SOCIAL ICE SESSIONS en Valencia: Sauna y baño frío",
+      "place": "Valencia",
+      "country": "ES",
+      "status": "aangekondigd",
+      "urls": [
+        "https://feverup.com/m/173977"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "abre-en-barcelona-el-primer-social-wellness-de-espana-ilo-studios-barcelona-es",
+      "title": "Abre en Barcelona el primer 'social wellness' de España: Ilo Studios",
+      "place": "Barcelona",
+      "country": "ES",
+      "status": "geopend",
+      "urls": [
+        "https://www.elperiodico.com/es/"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "atmos-steam-lounge-experiencia-de-sauna-partilhada-portugal-pt",
+      "title": "ATMOS Steam & Lounge - Experiência de sauna partilhada",
+      "place": "Portugal",
+      "country": "PT",
+      "status": "aangekondigd",
+      "urls": [
+        "https://doma.pt/atmos"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
+    },
+    {
+      "key": "edital-n-7-gp-djf-2026-atribuicao-de-espaco-para-servico-de-massagens-na-praia-f",
+      "title": "Edital n.º 7/GP/DJF/2026 - Atribuição de Espaço para Serviço de Massagens na Praia Fluvial de Monsaraz",
+      "place": "Monsaraz",
+      "country": "Portugal",
+      "status": "tender",
+      "urls": [
+        "https://www.cm-reguengos-monsaraz.pt/concessao-de-espacos-na-praia-fluvial-de-monsaraz/"
+      ],
+      "firstSeen": "2026-W40",
+      "lastSeen": "2026-W40"
     }
   ]
 }
