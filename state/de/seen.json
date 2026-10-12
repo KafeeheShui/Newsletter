@@ -119,6 +119,30 @@
       ],
       "firstSeen": "2026-W40",
       "lastSeen": "2026-W40"
+    },
+    {
+      "key": "mobile-sauna-im-stadtbad-vilsbiburg-vilsbiburg-de",
+      "title": "Mobile Sauna im Stadtbad Vilsbiburg",
+      "place": "Vilsbiburg",
+      "country": "DE",
+      "status": "pilot",
+      "urls": [
+        "https://www.vilsbiburg.de/mobile-sauna-im-stadtbad-im-september-2"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "heropening-vernieuwd-strandbad-an-der-schlo-wiese-in-ratzeburg-ratzeburg-de",
+      "title": "Heropening vernieuwd Strandbad an der Schloßwiese in Ratzeburg",
+      "place": "Ratzeburg",
+      "country": "DE",
+      "status": "geopend",
+      "urls": [
+        "https://herzogtum-direkt.de/index.php/2026/07/01/ratzeburger-strandbad-an-der-schlosswiese-startet-mit-dem-badebetrieb/"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
     }
   ]
 }

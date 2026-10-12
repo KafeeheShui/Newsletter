@@ -1,0 +1,17 @@
+{
+  "checked": 4,
+  "missed": [
+    {
+      "title": "'Sauna social' para salir de fiesta en Barcelona",
+      "url": "https://www.elperiodico.com/es/barcelona/20260917/sauna-social-salir-fiesta-barcelona-14247547",
+      "source": "El Periódico",
+      "snippet": "El proyecto Ilo Studios ha inaugurado en Barcelona un concepto de 'sauna social' con sesiones compartidas, convirtiéndose en una tendencia emergente de ocio nocturno y bienestar en la ciudad; actualmente buscan expandirse con un segundo local debido a la alta demanda.",
+      "date": "2026-09-17",
+      "country": "ES",
+      "market": "Spanje",
+      "_filter": "Bevestiging van Ilo Studios succes en uitbreidingsplannen.",
+      "_audit": "Relevante marktontwikkeling en conceptuele concurrent in Barcelona (Spanje) gericht op sociale sauna's met gedeelde sessies (drop-in).",
+      "block": "concurrentie_es"
+    }
+  ]
+}

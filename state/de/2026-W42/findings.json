@@ -1,0 +1,36 @@
+[
+  {
+    "relevant": true,
+    "block": "swimming",
+    "title": "Mobile Sauna im Stadtbad Vilsbiburg",
+    "summary": "Van 31 augustus tot 13 september 2026 staat er bij het Stadtbad Vilsbiburg een mobiele sauna als aanvullende voorziening voor badgasten.",
+    "score": 75,
+    "action": "Inspiratie/referentie opnemen voor tijdelijke plaatsing van mobiele outdoor sauna's bij openbare zwembaden in Duitsland.",
+    "country": "DE",
+    "date": "2026-08-31",
+    "place": "Vilsbiburg",
+    "priority": "B",
+    "status": "pilot",
+    "type": "mobiele sauna",
+    "why": "Concrete gedateerde plaatsing van een mobiele outdoor sauna bij een openbaar zwembad in Duitsland (najaar 2026).",
+    "source": "https://www.vilsbiburg.de/mobile-sauna-im-stadtbad-im-september-2",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "swimming",
+    "title": "Heropening vernieuwd Strandbad an der Schloßwiese in Ratzeburg",
+    "summary": "Het heringerichte Strandbad an der Schloßwiese in Ratzeburg is op 4 juli 2026 officieel gestart met het zwemseizoen na het verhelpen van opleverpunten.",
+    "score": 75,
+    "action": "Locatie en exploitatiemogelijkheden onderzoeken voor plaatsing van een mobiele outdoor sauna aan de Ratzeburger See.",
+    "country": "DE",
+    "date": "2026-07-01",
+    "place": "Ratzeburg",
+    "priority": "B",
+    "status": "geopend",
+    "type": "strandbad",
+    "why": "Concrete heropening van een vernieuwd zwemstrand aan het meer in Duitsland in zomer 2026, wat kansen biedt voor outdoor saunaconcepten bij zwemlocaties.",
+    "source": "https://herzogtum-direkt.de/index.php/2026/07/01/ratzeburger-strandbad-an-der-schlosswiese-startet-mit-dem-badebetrieb/",
+    "update": false
+  }
+]

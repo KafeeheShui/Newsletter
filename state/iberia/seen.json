@@ -71,6 +71,30 @@
       ],
       "firstSeen": "2026-W40",
       "lastSeen": "2026-W40"
+    },
+    {
+      "key": "sunna-mobile-saunas-portugal-pt",
+      "title": "Sunna Mobile Saunas",
+      "place": "Portugal",
+      "country": "PT",
+      "status": "geopend",
+      "urls": [
+        "https://www.therma.pt/venue/sunna-mobile-saunas"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "plataformas-lisbon-saunas-e-porto-saunas-lisboa-e-porto-portugal",
+      "title": "Plataformas Lisbon Saunas e Porto Saunas",
+      "place": "Lisboa e Porto",
+      "country": "Portugal",
+      "status": "geopend",
+      "urls": [
+        "https://www.nit.pt/fit/ginasios-e-outdoor/ha-duas-novas-plataformas-gratuitas-que-mostram-onde-ha-saunas-em-lisboa-e-no-porto"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
     }
   ]
 }

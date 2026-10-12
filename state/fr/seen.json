@@ -287,6 +287,78 @@
       ],
       "firstSeen": "2026-W40",
       "lastSeen": "2026-W40"
+    },
+    {
+      "key": "reouverture-et-agrandissement-de-la-base-de-loisirs-d-osselle-osselle-fr",
+      "title": "Réouverture et agrandissement de la base de loisirs d'Osselle",
+      "place": "Osselle",
+      "country": "FR",
+      "status": "geopend",
+      "urls": [
+        "https://hebdo25.net/osselle-la-base-de-loisirs-a-rouvert-ses-portes-pour-une-nouvelle-saison/"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "appel-a-candidatures-concession-de-plage-sainte-marie-la-mer-sainte-marie-la-mer",
+      "title": "Appel à candidatures : concession de plage Sainte-Marie-la-Mer",
+      "place": "Sainte-Marie-la-Mer",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.pyrenees-orientales.gouv.fr/Actualites/Appels-a-projets/Renouvellement-de-la-concession-de-plage-naturelle-sur-la-commune-de-Sainte-Marie-la-Mer"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "enquete-publique-pour-le-renouvellement-de-la-concession-de-plage-palavas-les-fl",
+      "title": "Enquête publique pour le renouvellement de la concession de plage",
+      "place": "Palavas-les-Flots",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://palavaslesflots.com/actualites/enquete-publique-renouvellement-concession-plage-naturelle/"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "appel-d-offres-concession-de-service-public-pour-lots-de-plage-n-5-et-15-a-agde-",
+      "title": "Appel d'offres : Concession de service public pour lots de plage (n° 5 et 15) à Agde",
+      "place": "Agde",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.francemarches.com/appel-offre/13joue005567892026-2026-concession-service-public"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "port-de-plaisance-saint-georges-debut-des-travaux-de-transformation-nancy-fr",
+      "title": "Port de plaisance Saint-Georges : début des travaux de transformation",
+      "place": "Nancy",
+      "country": "FR",
+      "status": "in aanbouw",
+      "urls": [
+        "https://www.grandnancy.eu/fileadmin/_processed_/b/1/csm_2026_09_30_ambiance_hivernale_au_port_de_plaisance_Saint_Georges_e5f9fec96a.jpg"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
+    },
+    {
+      "key": "lancement-du-premier-site-francais-de-saunas-collectifs-a-paris-parijs-fr",
+      "title": "Lancement du premier site français de saunas collectifs à Paris",
+      "place": "Parijs",
+      "country": "FR",
+      "status": "geopend",
+      "urls": [
+        "https://www.spa-de-beaute.fr/ouverture-du-premier-sauna-collectif-en-france/"
+      ],
+      "firstSeen": "2026-W42",
+      "lastSeen": "2026-W42"
     }
   ]
 }

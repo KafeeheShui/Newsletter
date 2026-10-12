@@ -1,0 +1,36 @@
+[
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "Sunna Mobile Saunas",
+    "summary": "Sunna Mobile Saunas biedt een houtgestookte mobiele saunadienst aan op buitenlocaties, stranden en retreats in Portugal met actieve operatie in 2026.",
+    "score": 70,
+    "action": "Onderzoeken of deze mobiele saunadienst ook losse drop-in sessies aanbiedt op stranden of enkel verhuur op aanvraag.",
+    "country": "PT",
+    "date": "2026-09-06",
+    "place": "Portugal",
+    "priority": "B",
+    "status": "geopend",
+    "type": "mobiele outdoor sauna",
+    "why": "Direct relevante marktafdekking in Portugal met een mobiel outdoor saunaconcept gericht op stranden en buitenlocaties.",
+    "source": "https://www.therma.pt/venue/sunna-mobile-saunas",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "hubs",
+    "title": "Plataformas Lisbon Saunas e Porto Saunas",
+    "summary": "In februari 2026 zijn twee gratis online platforms gelanceerd, Lisbon Saunas en Porto Saunas, om saunalocaties, prijzen en informatie in Lissabon en Porto centraal in kaart te brengen.",
+    "score": 70,
+    "action": "Raadpleeg de platforms om bestaand aanbod en marktdekking in Lissabon en Porto te analyseren.",
+    "country": "Portugal",
+    "date": "2026-03-04",
+    "place": "Lisboa e Porto",
+    "priority": "B",
+    "status": "geopend",
+    "type": "overzichtsplatform",
+    "why": "Concrete lancering in februari 2026 van lokale saunagidsen in Portugal, wat direct inzicht biedt in de markt en concurrentie in Lissabon en Porto.",
+    "source": "https://www.nit.pt/fit/ginasios-e-outdoor/ha-duas-novas-plataformas-gratuitas-que-mostram-onde-ha-saunas-em-lisboa-e-no-porto",
+    "update": false
+  }
+]
