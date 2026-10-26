@@ -1,0 +1,36 @@
+[
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "LongRun Viana: Sessões de Sauna Móvel e Banho Frio",
+    "summary": "LongRun Viana biedt mobiele houtgestookte saunasessies (drop-in/gedeeld) en koudwaterdompeling aan op roterende buitenlocaties aan de kust en het park in Viana do Castelo, Portugal.",
+    "score": 85,
+    "action": "Monitoren als directe concurrent voor mobiele outdoor drop-in saunaconcepten aan de Noord-Portugese kust.",
+    "country": "Portugal",
+    "date": "2026-06-26",
+    "place": "Viana do Castelo",
+    "priority": "A",
+    "status": "geopend",
+    "type": "mobiele sauna",
+    "why": "Relevante directe concurrent die een mobiel outdoor drop-in saunaconcept exploiteert op kust- en parklocaties in Portugal.",
+    "source": "https://longrunviana.com/",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "Noah Surf House Sauna & Plunge",
+    "summary": "Houtgestookte barrelsauna en koud bad bij surf lodge Noah Surf House in Santa Cruz (Torres Vedras), beschikbaar via drop-in voor niet-gasten.",
+    "score": 85,
+    "action": "Monitoren als directe concurrentie en netwerklocatie aan de Portugese kust.",
+    "country": "PT",
+    "date": "2026-01-01",
+    "place": "Santa Cruz, Torres Vedras",
+    "priority": "A",
+    "status": "geopend",
+    "type": "outdoor drop-in sauna",
+    "why": "Relevant outdoor drop-in saunaconcept op een kustlocatie in Portugal met openbare toegang voor niet-gasten.",
+    "source": "https://www.therma.pt/venue/noah-surf-house-sauna-plunge",
+    "update": false
+  }
+]

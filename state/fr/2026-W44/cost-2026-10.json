@@ -1,0 +1,182 @@
+{
+  "month": "2026-10",
+  "total_usd": 0.09448698,
+  "calls": [
+    {
+      "label": "collect:Frankrijk#1",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 385,
+      "output_tokens": 1009,
+      "web_searches": 0,
+      "usd": 0.0008
+    },
+    {
+      "label": "collect:Frankrijk#2",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 385,
+      "output_tokens": 1094,
+      "web_searches": 0,
+      "usd": 0.0009
+    },
+    {
+      "label": "collect:Frankrijk#3",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 385,
+      "output_tokens": 1086,
+      "web_searches": 0,
+      "usd": 0.0009
+    },
+    {
+      "label": "filter",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 1859,
+      "output_tokens": 731,
+      "web_searches": 0,
+      "usd": 0.0008
+    },
+    {
+      "label": "dedup",
+      "model": "gemini-3.1-flash-lite",
+      "input_tokens": 2307,
+      "output_tokens": 609,
+      "web_searches": 0,
+      "usd": 0.0008
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 2152,
+      "output_tokens": 148,
+      "web_searches": 0,
+      "usd": 0.0043
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 969,
+      "output_tokens": 130,
+      "web_searches": 0,
+      "usd": 0.0024
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 493,
+      "output_tokens": 140,
+      "web_searches": 0,
+      "usd": 0.0018
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 735,
+      "output_tokens": 199,
+      "web_searches": 0,
+      "usd": 0.0026
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 489,
+      "output_tokens": 123,
+      "web_searches": 0,
+      "usd": 0.0017
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 2039,
+      "output_tokens": 151,
+      "web_searches": 0,
+      "usd": 0.0042
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 2140,
+      "output_tokens": 150,
+      "web_searches": 0,
+      "usd": 0.0043
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 510,
+      "output_tokens": 155,
+      "web_searches": 0,
+      "usd": 0.0019
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 576,
+      "output_tokens": 112,
+      "web_searches": 0,
+      "usd": 0.0017
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 523,
+      "output_tokens": 162,
+      "web_searches": 0,
+      "usd": 0.002
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 494,
+      "output_tokens": 223,
+      "web_searches": 0,
+      "usd": 0.0024
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 499,
+      "output_tokens": 144,
+      "web_searches": 0,
+      "usd": 0.0018
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 1438,
+      "output_tokens": 125,
+      "web_searches": 0,
+      "usd": 0.0031
+    },
+    {
+      "label": "read",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 513,
+      "output_tokens": 155,
+      "web_searches": 0,
+      "usd": 0.0019
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 1165,
+      "output_tokens": 50,
+      "web_searches": 0,
+      "usd": 0.0021
+    },
+    {
+      "label": "audit",
+      "model": "gemini-3.6-flash",
+      "input_tokens": 294,
+      "output_tokens": 59,
+      "web_searches": 0,
+      "usd": 0.0009
+    },
+    {
+      "label": "editorial",
+      "model": "claude-opus-4-8",
+      "input_tokens": 3362,
+      "output_tokens": 1374,
+      "web_searches": 0,
+      "usd": 0.0512
+    }
+  ]
+}

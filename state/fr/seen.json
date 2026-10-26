@@ -359,6 +359,18 @@
       ],
       "firstSeen": "2026-W42",
       "lastSeen": "2026-W42"
+    },
+    {
+      "key": "baignade-a-la-base-de-loisirs-du-malsaucy-sermamagny-sermamagny-fr",
+      "title": "Baignade à la base de loisirs du Malsaucy (Sermamagny)",
+      "place": "Sermamagny",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.sermamagny.fr/actualites/baignade-base-de-loisirs-malsaucy-sermamagny/"
+      ],
+      "firstSeen": "2026-W44",
+      "lastSeen": "2026-W44"
     }
   ]
 }

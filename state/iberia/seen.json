@@ -95,6 +95,30 @@
       ],
       "firstSeen": "2026-W42",
       "lastSeen": "2026-W42"
+    },
+    {
+      "key": "longrun-viana-sessoes-de-sauna-movel-e-banho-frio-viana-do-castelo-portugal",
+      "title": "LongRun Viana: Sessões de Sauna Móvel e Banho Frio",
+      "place": "Viana do Castelo",
+      "country": "Portugal",
+      "status": "geopend",
+      "urls": [
+        "https://longrunviana.com/"
+      ],
+      "firstSeen": "2026-W44",
+      "lastSeen": "2026-W44"
+    },
+    {
+      "key": "noah-surf-house-sauna-plunge-santa-cruz-torres-vedras-pt",
+      "title": "Noah Surf House Sauna & Plunge",
+      "place": "Santa Cruz, Torres Vedras",
+      "country": "PT",
+      "status": "geopend",
+      "urls": [
+        "https://www.therma.pt/venue/noah-surf-house-sauna-plunge"
+      ],
+      "firstSeen": "2026-W44",
+      "lastSeen": "2026-W44"
     }
   ]
 }
