@@ -1,0 +1,53 @@
+[
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Ouverture de la Guinguette de l'Usine à Saint-Nazaire",
+    "summary": "Een nieuwe estivale guinguette opent op 24 juni 2026 aan de haven van Saint-Nazaire direct aan het estuarium op een tot dusver ontoegankelijk terrein.",
+    "score": 70,
+    "action": "Contact opnemen met initiatiefnemer Les Brassés voor mogelijkheden rond het plaatsen van een mobiele outdoor sauna op deze waterside locatie.",
+    "country": "FR",
+    "date": "2026-06-24",
+    "place": "Saint-Nazaire",
+    "priority": "B",
+    "status": "aangekondigd",
+    "type": "buitenlocatie",
+    "why": "Nieuwe gedateerde buitenlocatie aan het water vanaf zomer 2026 met potentie voor outdoor saunaplaatsing of eventsamenwerking.",
+    "source": "https://infos-media-nantes.fr/guinguette-saint-nazaire-port-ete-2026/",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Sous-concession d'exploitation de plage au Touquet-Paris-Plage",
+    "summary": "De gemeente Le Touquet-Paris-Plage heeft een aanbesteding uitgeschreven voor een strandconcessie (lot 7) voor de exploitatieperiode 2027-2028.",
+    "score": 80,
+    "action": "Tenderdocumenten opvragen en beoordelen op geschiktheid voor een mobiele drop-in saunalocatie aan het strand.",
+    "country": "FR",
+    "date": "2026-11-06",
+    "place": "Le Touquet-Paris-Plage",
+    "priority": "B",
+    "status": "tender",
+    "type": "strandconcessie",
+    "why": "Concrete tender voor een strandlocatie in Frankrijk biedt mogelijkheden voor de plaatsing van een outdoor sauna.",
+    "source": "https://ville-letouquet.safetender.com/",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "OTER Sauna: Mobiele sauna aan zee in Normandië",
+    "summary": "OTER Sauna exploitieert een mobiele houtgestookte sauna direct aan het strand in Normandië (Langrune-sur-Mer). Biedt gedeelde sessies vanaf €20 per uur, privaat afhuren voor €140/uur en maandabonnementen.",
+    "score": 75,
+    "action": "Tarieven en abonnementstructuur analyseren als benchmark voor mobiele sauna-exploitatie op strandlocaties in Frankrijk.",
+    "country": "FR",
+    "date": "2026-01-01",
+    "place": "Langrune-sur-Mer",
+    "priority": "B",
+    "status": "geopend",
+    "type": "mobiele sauna",
+    "why": "Relevant concurrentieconcept van een mobiele pop-up sauna op een kustlocatie in Frankrijk met actieve exploitatie en duidelijke prijsmodellen.",
+    "source": "https://www.otersauna.com/",
+    "update": false
+  }
+]

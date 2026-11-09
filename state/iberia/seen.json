@@ -119,6 +119,54 @@
       ],
       "firstSeen": "2026-W44",
       "lastSeen": "2026-W44"
+    },
+    {
+      "key": "hot-cold-community-sauna-rave-at-meri-madrid-es",
+      "title": "Hot & Cold Community Sauna Rave at MERI",
+      "place": "Madrid",
+      "country": "ES",
+      "status": "aangekondigd",
+      "urls": [
+        "https://mood.com/events/madrid/hot-cold-community-sauna-rave"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "sauna-comunitaria-en-las-montanas-de-soller-soller-mallorca-es",
+      "title": "Sauna comunitaria en las montañas de Sóller",
+      "place": "Sóller, Mallorca",
+      "country": "ES",
+      "status": "aangekondigd",
+      "urls": [
+        "https://thecalendarmallorca.com/es/eventos/sauna-comunitaria-soller"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "sunday-sauna-hot-cold-session-in-lissabon-lissabon-pt",
+      "title": "Sunday Sauna: Hot & Cold Session in Lissabon",
+      "place": "Lissabon",
+      "country": "PT",
+      "status": "aangekondigd",
+      "urls": [
+        "https://luma.com/23dv6uxb"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "sessoes-de-sauna-em-grupo-no-o-jardim-lagos-pt",
+      "title": "Sessões de Sauna em Grupo no O Jardim",
+      "place": "Lagos",
+      "country": "PT",
+      "status": "geopend",
+      "urls": [
+        "https://www.ponto-local.com/evento/sessoes-de-sauna-em-grupo-no-o-jardim"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
     }
   ]
 }

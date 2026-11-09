@@ -1,0 +1,65 @@
+{
+  "checked": 10,
+  "missed": [
+    {
+      "title": "Plataformas de localización de saunas en Lisboa y Oporto",
+      "url": "https://www.nit.pt/coolt/ginasios-e-outdoor/duas-novas-plataformas-gratuitas-saunas-lisboa-porto",
+      "source": "NiT",
+      "snippet": "Lanzamiento de plataformas digitales para centralizar y comparar precios y acceso a saunas en Lisboa y Oporto, facilitando la búsqueda de sesiones disponibles.",
+      "date": "2026-02-20",
+      "country": "PT",
+      "market": "Spanje",
+      "_filter": "Algemeen platform/directory, geen specifieke locatieontwikkeling.",
+      "_audit": "De lancering van sauna-zoek/boekingsplatformen in Lissabon en Porto is een concrete partnerkans en distributiekanaal voor outdoor drop-in sauna's in Portugal.",
+      "block": "Plataformas de localización de saunas en Lisboa y Oporto"
+    },
+    {
+      "title": "Sunna - Sauna Hire for Events & Retreats in Portugal",
+      "url": "https://sunna.pt",
+      "source": "Sunna",
+      "snippet": "Servicio de sauna móvil disponible en Portugal para eventos, retiros y festivales, ofreciendo una solución de sauna natural y portátil para ubicaciones temporales.",
+      "date": "2026-05-01",
+      "country": "PT",
+      "market": "Spanje",
+      "_filter": "B2B verhuur (events/retreats), geen openbare drop-in.",
+      "_audit": "Directe concurrent-beweging / relevante marktpartij voor mobiele en outdoor sauna's in Portugal.",
+      "block": "Competitor Analysis"
+    },
+    {
+      "title": "BODHI: Alquiler de saunas y bañeras de hielo para eventos",
+      "url": "https://www.somosbodhi.es/",
+      "source": "BODHI",
+      "snippet": "Empresa especializada en el despliegue de saunas y bañeras de hielo portátiles para eventos deportivos, festivales y activaciones corporativas, ofreciendo servicios de instalación y protocolos de bienestar.",
+      "date": null,
+      "country": "ES",
+      "market": "Spanje",
+      "_filter": "B2B event service, geen publiek toegankelijke drop-in locatie.",
+      "_audit": "BODHI is een actieve speler in Spanje en Portugal die mobiele outdoor sauna's en ijsbaden inzet voor events, festivals en community-activaties.",
+      "block": "competitor_analysis"
+    },
+    {
+      "title": "Healthy Horizon - Club de Longevidade",
+      "url": "https://www.therma.pt/venue/healthy-horizon",
+      "source": "Therma",
+      "snippet": "Clube de longevidade no Príncipe Real (Lisboa) focado em terapia de contraste com sauna finlandesa (85°C) e banho frio (5-10°C). Oferece passes diários com acesso a sessões partilhadas e outros tratamentos de bem-estar.",
+      "date": "2026-05-01",
+      "country": "PT",
+      "market": "Portugal",
+      "_filter": "Dubbele vermelding van Healthy Horizon.",
+      "_audit": "Relevante drop-in en contrasttherapie-locatie in Lissabon (Portugal) met dagpassen en gedeelde sessies.",
+      "block": "Spanje en Portugal"
+    },
+    {
+      "title": "Mandala Sagres - Sauna & Cold Plunge Drop-in",
+      "url": "https://mandalasagres.com/precos-pacotes-faq/",
+      "source": "Mandala Sagres",
+      "snippet": "Espaço de bem-estar em Sagres que oferece acesso drop-in (15€ por sessão) para sauna e banho frio no seu 'Recovery Garden', com possibilidade de compra de pacotes.",
+      "date": "2025-08-01",
+      "country": "PT",
+      "market": "Portugal",
+      "_filter": "Dubbele vermelding van Mandala Sagres.",
+      "_audit": "Direct relevante outdoor drop-in sauna en cold plunge ('Recovery Garden') aan de kust van Portugal (Sagres) met losse sessies per persoon.",
+      "block": "Mandala Sagres - Sauna & Cold Plunge Drop-in"
+    }
+  ]
+}

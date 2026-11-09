@@ -371,6 +371,42 @@
       ],
       "firstSeen": "2026-W44",
       "lastSeen": "2026-W44"
+    },
+    {
+      "key": "ouverture-de-la-guinguette-de-l-usine-a-saint-nazaire-saint-nazaire-fr",
+      "title": "Ouverture de la Guinguette de l'Usine à Saint-Nazaire",
+      "place": "Saint-Nazaire",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://infos-media-nantes.fr/guinguette-saint-nazaire-port-ete-2026/"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "sous-concession-d-exploitation-de-plage-au-touquet-paris-plage-le-touquet-paris-",
+      "title": "Sous-concession d'exploitation de plage au Touquet-Paris-Plage",
+      "place": "Le Touquet-Paris-Plage",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://ville-letouquet.safetender.com/"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "oter-sauna-mobiele-sauna-aan-zee-in-normandie-langrune-sur-mer-fr",
+      "title": "OTER Sauna: Mobiele sauna aan zee in Normandië",
+      "place": "Langrune-sur-Mer",
+      "country": "FR",
+      "status": "geopend",
+      "urls": [
+        "https://www.otersauna.com/"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
     }
   ]
 }

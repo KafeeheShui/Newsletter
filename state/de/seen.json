@@ -143,6 +143,66 @@
       ],
       "firstSeen": "2026-W42",
       "lastSeen": "2026-W42"
+    },
+    {
+      "key": "oranienburger-schlosshafen-pavillon-fur-gastronomie-in-planung-oranienburg-de",
+      "title": "Oranienburger Schlosshafen: Pavillon für Gastronomie in Planung",
+      "place": "Oranienburg",
+      "country": "DE",
+      "status": "tender",
+      "urls": [
+        "https://www.youtube.com/shorts/fJLQ9dlaCME"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "schwerin-wie-geht-s-weiter-mit-dem-inselhafen-kaninchenwerder-schwerin-de",
+      "title": "Schwerin: Wie geht's weiter mit dem Inselhafen Kaninchenwerder?",
+      "place": "Schwerin",
+      "country": "DE",
+      "status": "tender",
+      "urls": [
+        "https://www.boote-magazin.de/reviere/deutschland/schwerin-wie-gehts-weiter-mit-dem-inselhafen-kaninchenwerder/"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "bubs-strandbar-en-starclub-openen-nieuw-horecaconcept-aan-de-oude-donauhaven-in-",
+      "title": "Bubs Strandbar en Starclub openen nieuw horecaconcept aan de Oude Donauhaven in Donauwörth",
+      "place": "Donauwörth",
+      "country": "DE",
+      "status": "definitief",
+      "urls": [
+        "https://www.donau-ries-aktuell.de/freizeit/tourismus-und-gastlichkeit/bubs-strandbar-und-starclub-eroeffnen-gemeinsam-am-alten"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "neues-strandbad-ratzeburg-an-der-schlo-wiese-in-betrieb-ratzeburg-de",
+      "title": "Neues Strandbad Ratzeburg an der Schloßwiese in Betrieb",
+      "place": "Ratzeburg",
+      "country": "DE",
+      "status": "geopend",
+      "urls": [
+        "https://herzogtum-direkt.de/ratzeburger-strandbad-an-der-schlosswiese-startet-mit-dem-badebetrieb/"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
+    },
+    {
+      "key": "planungen-fur-neues-naturbad-am-hamburger-schwanenwik-hamburg-de",
+      "title": "Planungen für neues Naturbad am Hamburger Schwanenwik",
+      "place": "Hamburg",
+      "country": "DE",
+      "status": "voorstel",
+      "urls": [
+        "https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/aktuelles/pressemeldungen/2026/senat-und-baederland-stellen-erste-bilder-der-moeglichen-neuen-badestelle-vor-1175840"
+      ],
+      "firstSeen": "2026-W46",
+      "lastSeen": "2026-W46"
     }
   ]
 }
