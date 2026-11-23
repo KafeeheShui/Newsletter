@@ -1,0 +1,36 @@
+[
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "Sauna by the Sea - Evento em Cascais",
+    "summary": "BeHuman organiseert op 22 november 2026 een outdoor community-sauna en koudwaterdip op Praia do Moinho in Cascais met reserveerbare drop-in sessies.",
+    "score": 85,
+    "action": "Volg het evenement en de propositie van BeHuman op Praia do Moinho in Cascais voor concurrentie-analyse en locatie-inzet.",
+    "country": "PT",
+    "date": "2026-11-22",
+    "place": "Cascais",
+    "priority": "A",
+    "status": "aangekondigd",
+    "type": "pop-up outdoor sauna",
+    "why": "Concrete aankondiging van een outdoor drop-in community sauna-evenement aan de kust in Portugal (Cascais) op een specifieke datum in 2026.",
+    "source": "https://tribeirl.com/events/sauna-by-the-sea-2026-11-22",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "competitors",
+    "title": "Sunna Beato Innovation District Pop Up",
+    "summary": "Pop-up houtgestookte sauna en ijsbadsessies toegankelijk voor publiek via reservering op het Beato Innovation District in Lissabon.",
+    "score": 85,
+    "action": "Volg dit initiatief als directe concurrent en pop-up locatie-referentie binnen Portugal.",
+    "country": "PT",
+    "date": "2026-03-27",
+    "place": "Lissabon",
+    "priority": "A",
+    "status": "pilot",
+    "type": "pop-up sauna",
+    "why": "Directe match met de editiefocus (Portugal), concrete openbaar toegankelijke outdoor pop-up saunalocatie in Lissabon.",
+    "source": "https://sunna.pt/",
+    "update": false
+  }
+]

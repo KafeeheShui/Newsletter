@@ -1,0 +1,53 @@
+[
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Letzter freier Standort an der Dill - Betreiber gesucht!",
+    "summary": "De stad Herborn zoekt vanaf juli 2026 een exploitant voor een pachtlocatie van 300 m² aan de rivier de Dill voor mobiele en flexibele concepten.",
+    "score": 65,
+    "action": "Contact opnemen met de stad Herborn over de mogelijkheden voor een mobiele sauna op deze standplaats aan het water.",
+    "country": "DE",
+    "date": "2026-07-17",
+    "place": "Herborn",
+    "priority": "B",
+    "status": "exploitant gezocht",
+    "type": "standplaats",
+    "why": "Mobiele, flexibele standplaats van 300 m² direct aan de rivier de Dill in Duitsland is potentieel geschikt voor een drop-in outdoor sauna.",
+    "source": "https://www.herborn.de/stadtentwicklung/gesellschaft/leben/verwaltung/stadtverwaltung/politik/zahlen-daten-fakten/service/abfallkalender/dienstleistungen-von-a-z/friedhoefe-bestattungen/kontakt/maengelmelder-herborn/online-services/trauungen-in-herborn/vermietung-von-buergerhaeusern-sportplaetzen/vermietung-von-grillhuetten/webcams/interessantes-aktuelles/letzter-freier-standort-an-der-dill-betreiber-gesucht/",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Eisbaden-Aktion am Dortmund-Ems-Kanal in Münster",
+    "summary": "Aankondiging van een sauna-event met mobiele sauna en ijsbaden aan het Dortmund-Ems-Kanaal in Münster op 8 november 2026.",
+    "score": 75,
+    "action": "Bekijken als inspiratie voor pop-up/drop-in outdoor saunaconcepten bij open water in Duitsland.",
+    "country": "DE",
+    "date": "2026-11-08",
+    "place": "Münster",
+    "priority": "B",
+    "status": "aangekondigd",
+    "type": "pop-up event",
+    "why": "Mobiele outdoor sauna in combinatie met koudwaterzwemmen op een buitenlocatie in Duitsland (doelmarkt).",
+    "source": "https://mobilsauna.de/saunaevent",
+    "update": true
+  },
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Ausschreibung der Pacht und des Betriebs mit Imbissversorgung der Marina Karnin",
+    "summary": "De stad Usedom zoekt per 1 januari 2027 een nieuwe pachter voor de exploitatie en horecavoorziening van Marina Karnin.",
+    "score": 65,
+    "action": "Tender-voorwaarden analyseren op mogelijkheden voor een mobiele sauna op de kavel van Marina Karnin.",
+    "country": "DE",
+    "date": "2026-03-16",
+    "place": "Usedom",
+    "priority": "B",
+    "status": "tender",
+    "type": "Marina",
+    "why": "Jachthavenlocatie aan het water in Duitsland biedt potentieel voor een outdoor sauna- en dipconcept.",
+    "source": "https://www.nexxt-change.org/DE/Suche/Angebote/Detail/index.html?id=208168",
+    "update": true
+  }
+]

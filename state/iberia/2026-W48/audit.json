@@ -1,0 +1,53 @@
+{
+  "checked": 5,
+  "missed": [
+    {
+      "title": "¿Necesito licencia para una sauna en el jardín en España?",
+      "url": "https://saunamo.es/cdn/shop/articles/sauna-exterior-hiki-s-2828716.png?v=1792764966&width=533",
+      "source": "Saunamo",
+      "snippet": "Artículo técnico con actualización de octubre de 2026 que clarifica la normativa urbanística y los trámites de licencias requeridos para instalaciones de saunas exteriores en España, fundamental para proyectos de sauna móvil o pop-up.",
+      "date": "2026-10-29",
+      "country": "ES",
+      "market": "Spanje",
+      "_filter": "Technisch/juridisch advies, geen concrete locatie.",
+      "_audit": "Het artikel bevat relevante informatie over regelgeving en vergunningen voor outdoor en mobiele/pop-up sauna's in Spanje.",
+      "block": "Spanje & Portugal"
+    },
+    {
+      "title": "Sauna comunitaria en Sóller (WildSpa)",
+      "url": "https://thecalendarmallorca.com/sauna-comunitaria-montanas-de-soller/",
+      "source": "The Calendar Mallorca",
+      "snippet": "Proyecto de sauna al aire libre en las montañas de Sóller que ofrece sesiones compartidas (drop-in) con aforo limitado de 4 plazas, incluyendo zona de descanso junto al fuego. Requiere reserva previa.",
+      "date": "2025-04-01",
+      "country": "ES",
+      "market": "Spanje",
+      "_filter": "Dubbel met item 2, maar bevestigt drop-in karakter.",
+      "_audit": "Dit is een nieuw outdoor drop-in/community saunaproject in Spanje (Sóller, Mallorca) met gedeelde sessies, wat exact binnen de hoogste prioriteit valt.",
+      "block": "Spanje/Portugal - Outdoor drop-in sauna's"
+    },
+    {
+      "title": "Sunna Mobile Saunas - Portugal",
+      "url": "https://www.therma.pt/venue/sunna-mobile-saunas",
+      "source": "Therma",
+      "snippet": "Operador de sauna móvel a lenha que presta serviços de drop-in em festivais, praias e eventos, bem como aluguer privado, promovendo a cultura de sauna e imersão em água fria.",
+      "date": null,
+      "country": "PT",
+      "market": "Portugal",
+      "_filter": "Bevestiging van operationele model in Portugal.",
+      "_audit": "Direct relevante concurrent/markt-ontwikkeling: een mobiele sauna-operator in Portugal die drop-in diensten aanbiedt op stranden en evenementen.",
+      "block": "Sunna Mobile Saunas - Portugal"
+    },
+    {
+      "title": "Lançamento das plataformas Lisbon Saunas e Porto Saunas",
+      "url": "https://www.nit.pt/fit/ginasios-e-outdoor/ha-duas-novas-plataformas-gratuitas-que-mostram-onde-ha-saunas-em-lisboa-e-no-porto",
+      "source": "NiT",
+      "snippet": "Plataformas digitais lançadas para centralizar a informação sobre localização e preços de saunas em Lisboa e no Porto, facilitando o acesso a sessões partilhadas e informando sobre o mercado de saunas.",
+      "date": "2026-03-04",
+      "country": "PT",
+      "market": "Portugal",
+      "_filter": "Platform/directory, geen eigen fysieke locatie.",
+      "_audit": "Relevant marktinitiatief en potentiële partner in Portugal: lancering van platforms (Lisbon/Porto Saunas) die saunas en gedeelde sessies in kaart brengen.",
+      "block": "Plataformas digitais lançadas para centralizar a informação sobre localização e preços de saunas em Lisboa e no Porto, facilitando o acesso a sessões partilhadas e informando sobre o mercado de saunas."
+    }
+  ]
+}

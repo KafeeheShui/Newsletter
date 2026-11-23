@@ -1,0 +1,52 @@
+[
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Réorganisation du port de plaisance de Neuilly-sur-Marne",
+    "summary": "Het project voor de herinrichting van de jachthaven van Neuilly-sur-Marne is goedgekeurd. Het omvat zones voor elektrische boten, watersporten en een toeristisch complex, wat kansen biedt voor outdoor saunalocaties aan het water.",
+    "score": 65,
+    "action": "Verkennen van mogelijkheden voor plaatsing van een eräSauna drop-in unit bij de herontwikkelde jachthaven.",
+    "country": "FR",
+    "date": "2026-03-01",
+    "place": "Neuilly-sur-Marne",
+    "priority": "B",
+    "status": "definitief",
+    "why": "Herontwikkeling van een watergebonden recreatielocatie in Frankrijk met een definitief besluit vanaf voorjaar 2026.",
+    "source": "https://www.iledefrance.fr/reorganisation-du-port-de-plaisance",
+    "update": false
+  },
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Aanbesteding strandconcessies Palavas-les-Flots 2027-2031",
+    "summary": "De gemeente Palavas-les-Flots schrijft een concessie-aanbesteding uit voor de exploitatie van zeven strandkavels (lots de plage D1-D4, G5-G7) voor de seizoenen 2027 tot en met 2031 (1 maart - 30 oktober).",
+    "score": 78,
+    "action": "Aanbestedingsdocumenten bekijken en mogelijkheid onderzoeken voor inschrijving of samenwerking met uitbater van strandkavel voor een outdoor saunaconcept.",
+    "country": "FR",
+    "date": "2026-10-22",
+    "place": "Palavas-les-Flots",
+    "priority": "B",
+    "status": "tender",
+    "type": "strandconcessie",
+    "why": "Concrete aanbesteding voor seizoensexploitatie van strandlocaties aan de Franse Middellandse Zeekust, geschikt voor mobiele of tijdelijke outdoor sauna-exploitatie.",
+    "source": "https://www.marchesonline.com/appels-offres/avis/sous-traite-de-concession-portant-sur-l-exploitation/ao-4346242-1",
+    "update": true
+  },
+  {
+    "relevant": true,
+    "block": "locations",
+    "title": "Port de plaisance Saint-Georges : travaux de transformation",
+    "summary": "Herontwikkeling van Port Saint-Georges in Nancy tot een toeristische hub start op 1 oktober 2026 met werkzaamheden aan pontons en kades door VNF en de Métropole.",
+    "score": 70,
+    "action": "Contact opnemen met Métropole du Grand Nancy en VNF over mogelijkheden voor een mobiele drop-in sauna bij de vernieuwde jachthaven.",
+    "country": "FR",
+    "date": "2026-10-01",
+    "place": "Nancy",
+    "priority": "B",
+    "status": "aangekondigd",
+    "type": "waterfront herontwikkeling",
+    "why": "De transformatie van de jachthaven tot een toeristische watersporthub vanaf oktober 2026 biedt kansen voor een outdoor saunaconcept langs het water.",
+    "source": "https://www.grandnancy.eu/actualites/actualite/news/port-de-plaisance-saint-georges-des-travaux-a-partir-du-1er-octobre",
+    "update": true
+  }
+]

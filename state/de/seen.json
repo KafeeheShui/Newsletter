@@ -203,6 +203,42 @@
       ],
       "firstSeen": "2026-W46",
       "lastSeen": "2026-W46"
+    },
+    {
+      "key": "letzter-freier-standort-an-der-dill-betreiber-gesucht-herborn-de",
+      "title": "Letzter freier Standort an der Dill - Betreiber gesucht!",
+      "place": "Herborn",
+      "country": "DE",
+      "status": "exploitant gezocht",
+      "urls": [
+        "https://www.herborn.de/stadtentwicklung/gesellschaft/leben/verwaltung/stadtverwaltung/politik/zahlen-daten-fakten/service/abfallkalender/dienstleistungen-von-a-z/friedhoefe-bestattungen/kontakt/maengelmelder-herborn/online-services/trauungen-in-herborn/vermietung-von-buergerhaeusern-sportplaetzen/vermietung-von-grillhuetten/webcams/interessantes-aktuelles/letzter-freier-standort-an-der-dill-betreiber-gesucht/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "eisbaden-aktion-am-dortmund-ems-kanal-in-munster-munster-de",
+      "title": "Eisbaden-Aktion am Dortmund-Ems-Kanal in Münster",
+      "place": "Münster",
+      "country": "DE",
+      "status": "aangekondigd",
+      "urls": [
+        "https://mobilsauna.de/saunaevent"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "ausschreibung-der-pacht-und-des-betriebs-mit-imbissversorgung-der-marina-karnin-",
+      "title": "Ausschreibung der Pacht und des Betriebs mit Imbissversorgung der Marina Karnin",
+      "place": "Usedom",
+      "country": "DE",
+      "status": "tender",
+      "urls": [
+        "https://www.nexxt-change.org/DE/Suche/Angebote/Detail/index.html?id=208168"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
     }
   ]
 }

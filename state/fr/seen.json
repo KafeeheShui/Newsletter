@@ -407,6 +407,42 @@
       ],
       "firstSeen": "2026-W46",
       "lastSeen": "2026-W46"
+    },
+    {
+      "key": "reorganisation-du-port-de-plaisance-de-neuilly-sur-marne-neuilly-sur-marne-fr",
+      "title": "Réorganisation du port de plaisance de Neuilly-sur-Marne",
+      "place": "Neuilly-sur-Marne",
+      "country": "FR",
+      "status": "definitief",
+      "urls": [
+        "https://www.iledefrance.fr/reorganisation-du-port-de-plaisance"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "aanbesteding-strandconcessies-palavas-les-flots-2027-2031-palavas-les-flots-fr",
+      "title": "Aanbesteding strandconcessies Palavas-les-Flots 2027-2031",
+      "place": "Palavas-les-Flots",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.marchesonline.com/appels-offres/avis/sous-traite-de-concession-portant-sur-l-exploitation/ao-4346242-1"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "port-de-plaisance-saint-georges-travaux-de-transformation-nancy-fr",
+      "title": "Port de plaisance Saint-Georges : travaux de transformation",
+      "place": "Nancy",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.grandnancy.eu/actualites/actualite/news/port-de-plaisance-saint-georges-des-travaux-a-partir-du-1er-octobre"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
     }
   ]
 }

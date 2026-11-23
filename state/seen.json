@@ -2088,6 +2088,234 @@
       ],
       "firstSeen": "2026-W46",
       "lastSeen": "2026-W46"
+    },
+    {
+      "key": "toch-geen-strandpaviljoen-op-stichtse-strand-na-uitspraak-raad-van-state-blaricu",
+      "title": "Toch geen strandpaviljoen op Stichtse Strand na uitspraak Raad van State",
+      "place": "Blaricum",
+      "country": "NL",
+      "status": "definitief",
+      "urls": [
+        "https://blaricum.progressiefnederland.nl/toch-geen-strandpaviljoen/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "marktconsultatie-voor-horecapaviljoen-de-ulesprong-de-fryske-marren-nl",
+      "title": "Marktconsultatie voor horecapaviljoen De Ûlesprong",
+      "place": "De Fryske Marren",
+      "country": "NL",
+      "status": "onderzoek",
+      "urls": [
+        "https://www.tenderned.nl/aankondigingen/overzicht/431410"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "gemeenteraad-bloemendaal-adviseert-over-uitbreiding-strandpaviljoen-de-republiek",
+      "title": "Gemeenteraad Bloemendaal adviseert over uitbreiding strandpaviljoen De Republiek",
+      "place": "Overveen",
+      "country": "NL",
+      "status": "definitief",
+      "urls": [
+        "https://raad.bloemendaal.nl/sitzungen/2026001147.pdf"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "vierde-jachthaven-in-klein-willebroek-geopend-klein-willebroek-be",
+      "title": "Vierde jachthaven in Klein-Willebroek geopend",
+      "place": "Klein-Willebroek",
+      "country": "BE",
+      "status": "geopend",
+      "urls": [
+        "https://www.rtv.be/artikel/vierde-jachthaven-klein-willebroek-geopend"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "zwemmen-natuurlijk-interreg-vlaanderen-nederland-kessel-lo-be",
+      "title": "Zwemmen, Natuurlijk - Interreg Vlaanderen-Nederland",
+      "place": "Kessel-Lo",
+      "country": "BE",
+      "status": "onderzoek",
+      "urls": [
+        "https://www.vlaamsbrabant.be/nl/nieuws/zwemmen-natuurlijk-interreg-vlaanderen-nederland"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "decret-n-2026-723-sanctions-pour-baignade-en-zone-interdite-frankrijk-fr",
+      "title": "Décret n° 2026-723 : Sanctions pour baignade en zone interdite",
+      "place": "Frankrijk",
+      "country": "FR",
+      "status": "definitief",
+      "urls": [
+        "https://www.legifrance.gouv.fr/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "appel-a-concurrence-concession-de-plage-a-cagnes-sur-mer-cagnes-sur-mer-fr",
+      "title": "Appel à concurrence : Concession de plage à Cagnes-sur-Mer",
+      "place": "Cagnes-sur-Mer",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.francemarches.com/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "projet-de-redynamisation-du-port-de-plaisance-du-grand-large-a-dunkerque-dunkerq",
+      "title": "Projet de redynamisation du port de plaisance du Grand Large à Dunkerque",
+      "place": "Dunkerque",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.communaute-urbaine-dunkerque.fr/le-tourisme/plaisance-et-marina-la-future-pointe-des-allies"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "bastu74-noordse-sauna-ervaring-bij-lac-bleu-morillon-fr",
+      "title": "Bastu74: Noordse sauna-ervaring bij Lac Bleu",
+      "place": "Morillon",
+      "country": "FR",
+      "status": "geopend",
+      "urls": [
+        "https://www.bastu74.com/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "concession-de-service-public-pour-l-exploitation-de-la-grande-plage-de-saint-jea",
+      "title": "Concession de service public pour l'exploitation de la grande plage de Saint-Jean-de-Luz",
+      "place": "Saint-Jean-de-Luz",
+      "country": "FR",
+      "status": "tender",
+      "urls": [
+        "https://www.france-marches.fr/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "im-nordostbad-eroffnet-erstmals-eine-mobile-sauna-nurnberg-de",
+      "title": "Im Nordostbad eröffnet erstmals eine mobile Sauna",
+      "place": "Nürnberg",
+      "country": "DE",
+      "status": "pilot",
+      "urls": [
+        "https://nuernberg.t-online.de/region/nuernberg/id_101491302/nuernberg-im-nordostbad-eroeffnet-erstmals-eine-mobile-sauna.html"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "saisoneroffnung-strandbad-rodgau-rodgau-de",
+      "title": "Saisoneröffnung Strandbad Rodgau",
+      "place": "Rodgau",
+      "country": "DE",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.rodgau.de/Aktuelles/Pressemeldungen/Sonne-Sommer-Strandbadsaison-es-geht-wieder-los.php"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "nordic-urban-ontwikkelt-drijvend-saunacomplex-in-london-royal-docks-londen-uk",
+      "title": "Nordic Urban ontwikkelt drijvend saunacomplex in London Royal Docks",
+      "place": "Londen",
+      "country": "UK",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.healthclubmanagement.co.uk/health-club-management-news/Nordic-Urban-to-develop-floating-wellness-destination-at-Londons-Royal-Docks/363994"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "kai-water-culture-house-geopend-in-kopenhagen-in-december-2026-kopenhagen-dk",
+      "title": "KAI Water Culture House geopend in Kopenhagen in december 2026",
+      "place": "Kopenhagen",
+      "country": "DK",
+      "status": "aangekondigd",
+      "urls": [
+        "https://traveltomorrow.com/new-water-culture-house-to-open-in-copenhagen-in-december-2026/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "aanbesteding-exploitatie-horecapaviljoen-recreatiegebied-de-kuilen-langenboom-nl",
+      "title": "Aanbesteding: Exploitatie horecapaviljoen recreatiegebied De Kuilen",
+      "place": "Langenboom",
+      "country": "NL",
+      "status": "tender",
+      "urls": [
+        "https://www.tender.app/p/exploitatie-paviljoen-de-kuilen-langenboom-gemeente-land-van-cuijk"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "dit-zijn-de-negen-nieuwe-strandconcessies-voor-blankenberge-blankenberge-be",
+      "title": "Dit zijn de negen nieuwe strandconcessies voor Blankenberge",
+      "place": "Blankenberge",
+      "country": "BE",
+      "status": "definitief",
+      "urls": [
+        "https://www.blankenberge.be/nieuws/dit-zijn-de-negen-nieuwe-strandconcessies-voor-blankenberge"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "binnenkort-opnieuw-openluchtzwemmen-in-de-hoofdstad-anderlecht-be",
+      "title": "Binnenkort opnieuw openluchtzwemmen in de hoofdstad",
+      "place": "Anderlecht",
+      "country": "BE",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.anspersoons.brussels/nieuws/binnenkort-opnieuw-openluchtzwemmen-in-de-hoofdstad"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "lancement-de-la-saison-au-lac-d-hommes-indre-et-loire-hommes-fr",
+      "title": "Lancement de la saison au Lac d'Hommes (Indre-et-Loire)",
+      "place": "Hommes",
+      "country": "FR",
+      "status": "aangekondigd",
+      "urls": [
+        "https://www.le-kiosque.org/actualites/vie-de-la-cite/baignade-et-loisirs-une-nouvelle-page-souvre-pour-le-lac-dhommes-en-2026"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "sea-scrub-sauna-geopende-beach-spa-in-folkestone-folkestone-uk",
+      "title": "Sea Scrub Sauna geopende beach spa in Folkestone",
+      "place": "Folkestone",
+      "country": "UK",
+      "status": "geopend",
+      "urls": [
+        "https://hiddenbea.ch/magazine/stories/107813-uk-s-largest-beach-spa-opens"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
     }
   ]
 }

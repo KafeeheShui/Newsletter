@@ -167,6 +167,30 @@
       ],
       "firstSeen": "2026-W46",
       "lastSeen": "2026-W46"
+    },
+    {
+      "key": "sauna-by-the-sea-evento-em-cascais-cascais-pt",
+      "title": "Sauna by the Sea - Evento em Cascais",
+      "place": "Cascais",
+      "country": "PT",
+      "status": "aangekondigd",
+      "urls": [
+        "https://tribeirl.com/events/sauna-by-the-sea-2026-11-22"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
+    },
+    {
+      "key": "sunna-beato-innovation-district-pop-up-lissabon-pt",
+      "title": "Sunna Beato Innovation District Pop Up",
+      "place": "Lissabon",
+      "country": "PT",
+      "status": "pilot",
+      "urls": [
+        "https://sunna.pt/"
+      ],
+      "firstSeen": "2026-W48",
+      "lastSeen": "2026-W48"
     }
   ]
 }
